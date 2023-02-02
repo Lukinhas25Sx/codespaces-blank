@@ -1,0 +1,23 @@
+body{
+    width: 1248px;
+}
+span{
+    color: white;
+    font-size: small;
+}
+
+header,section,footer{
+    background-color: gray;
+    border-radius: 15px;
+    padding: 30px;
+}
+header{
+    height: 60px;
+}
+section{
+    height: 650px;
+    margin: 15px 0px 0px 0px;
+}
+ul li h2{
+    font-size: medium;
+}
